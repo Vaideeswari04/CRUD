@@ -51,7 +51,7 @@ const teaclick=()=>{
                   <th>Id</th>
                   <th>Name</th>
                   <th>Age</th>
-                  <th  className='actions'  >Actions</th>
+                  <th  className='actions'  >action</th>
                 </tr>
               </thead>
               <tbody>
