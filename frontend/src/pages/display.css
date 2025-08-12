@@ -1,0 +1,74 @@
+
+
+/* table {
+  border-collapse: collapse; 
+} */
+th, td {
+  border: 5px double black; 
+  
+
+  
+}
+
+
+.id2{
+    text-align: center;
+    font-size: larger;
+}
+.name{
+    text-align: center;
+    font-size: larger;
+}
+.age{
+    text-align: center;
+    font-size: larger;
+}
+
+
+.head{
+    text-align: center;
+    
+    padding-bottom: 20px;
+    padding-top: 20px;
+    color: black;
+}
+
+.id{
+    text-align: center;
+    font-size: larger;
+}
+.nam{
+    text-align: center;
+    font-size: larger;
+
+}
+.insert{
+    
+    size: 100px;
+
+}
+.update{
+    text-align: center;
+}
+.ins{
+    text-align: center;
+}
+
+
+.upid,.upname,.upage{
+    float: left;
+}
+.upd{
+   text-align: center;
+}
+.actions {
+            
+  white-space: nowrap;     
+  text-align: center;      
+}
+.prim{
+    margin-bottom: 10px;
+}
+
+
+
